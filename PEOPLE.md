@@ -1,1 +1,1 @@
-new people start coming
+"Haskell Curry" 
